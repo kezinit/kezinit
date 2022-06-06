@@ -20,3 +20,10 @@
 
 <br><br>
 
+## Contato:
+
+- Telefone: (14)998527270
+- E-mail: ionbr2005@gmail.com
+- Instagram: @ke_moraless
+- Twitter: @kevizza
+
