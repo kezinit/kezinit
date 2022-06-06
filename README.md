@@ -10,8 +10,6 @@
 
 - 💬 Linguagens que eu sei **C#, HTML, CSS, SQL,**
 
-- ⚡ Meu passa tempo é ficar jogando Jogos :P
-
 <br><br>
 
 ## 🛠 &nbsp;O que eu sei
