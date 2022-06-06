@@ -25,7 +25,7 @@ Linguagens:
   <img align="center" alt="Kevin-php" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" />
   <img align="center" alt="Kevin-css" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
 </div>
-
+<br><br>
 
 Aprendendo:
 - JAVA
