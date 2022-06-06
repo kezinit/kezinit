@@ -33,6 +33,17 @@ Aprendendo:
 
 <br><br>
 
+
+<div align="center">
+  <a href="https://github.com/kevizza">
+  <img height="200em" src="http://github-readme-streak-stats.herokuapp.com?user=kevizza&theme=dark"/> <br>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=kevizza&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kevizza&layout=compact&langs_count=7&theme=gotham&bg_color=#071a16"/>
+</div>
+   
+
+
+
 ## Contato:
 
 - Telefone: (14)998527270
