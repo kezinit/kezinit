@@ -33,4 +33,4 @@ Aprendendo:
 -   [![Linkedin](https://img.shields.io/badge/linkedin%20-%23323330.svg?&style=for-the-badge&logo=linkedin&logoColor=black&color=0d7e91)](https://www.linkedin.com/in/kevin-morales-farah-3670b7229/)
 - [![Instagram](https://img.shields.io/badge/Instagram%20-%23323330.svg?&style=for-the-badge&logo=Instagram&logoColor=black&color=d97043)](https://www.instagram.com/ke_moraless/)
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=a045e6&height=120&section=footer"/>
