@@ -1,7 +1,7 @@
 ![Header](github-header-image.png)
 <div align="center">  
 <!--   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=kezinit&show_icons=true&count_private=true&hide_border=true&title_color=a045e6&icon_color=a045e6&text_color=c9d1d9&bg_color=0d1117" alt="Matheus Maia Alvarez github stats" />  -->
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kezinit&layout=compact&hide_border=true&title_color=00bfbf&text_color=a045e6&bg_color=0d1117" />
+<!--   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kezinit&layout=compact&hide_border=true&title_color=00bfbf&text_color=a045e6&bg_color=0d1117" /> -->
 </div>
 
 <br><br>
